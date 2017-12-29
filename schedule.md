@@ -32,7 +32,7 @@
    * Sergey Bratus
 4. [WaveConverter – An Open Source Software Tool for RF Reverse Engineering](build/04_wave_converter.md)
    * Paul Clark
-5. I Have a Graph Database. Now What?
+5. [I Have a Graph Database. Now What?](build/05_i_have_a_graph_database.md)
    * Nicolas Kseib
    * Shimon Modi
 6. 0wn the Con

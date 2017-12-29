@@ -10,6 +10,7 @@
 * [BUILD IT](build/build_it.md)
   * [A Context-Aware Kernel IPC Firewall for Android](build/03_a_context_aware_kernel_ipc_firewall.md)
   * [WaveConverter – An Open Source Software Tool for RF Reverse Engineering](build/04_wave_converter.md)
+  * [I Have a Graph Database. Now What?](build/05_i_have_a_graph_database.md)
   * [User Focused Security at Netflix: Stethoscope](build/07_user_focused_security_at_netflix.md)
   * [\(In-\)secure messaging with SCIMP and OMEMO](build/10_insecure_messaging_with_scimp_omemo.md)
 * [BELAY IT](belay/belay_it.md)
