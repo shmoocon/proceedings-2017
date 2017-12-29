@@ -27,7 +27,7 @@
 2. Exploring The Infrared World
    * Dominic Spill
    * Michael Ossmann
-3. A Context-Aware Kernel IPC Firewall for Android
+3. [A Context-Aware Kernel IPC Firewall for Android](build/03_a_context_aware_kernel_ipc_firewall.md)
    * David Wu
    * Sergey Bratus
 4. WaveConverter – An Open Source Software Tool for RF Reverse Engineering

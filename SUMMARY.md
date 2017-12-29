@@ -8,6 +8,7 @@
 * [ONE TRACK MIND](otm/one_track_mind.md)
   * 
 * [BUILD IT](build/build_it.md)
+  * [A Context-Aware Kernel IPC Firewall for Android](build/03_a_context_aware_kernel_ipc_firewall.md)
   * [User Focused Security at Netflix: Stethoscope](build/07_user_focused_security_at_netflix.md)
 * [BELAY IT](belay/belay_it.md)
   * [Dig Out Your Brick Phone! Bringing AMPS Back with GNU Radio](belay/08_dig_out_your_brick_phone.md)
