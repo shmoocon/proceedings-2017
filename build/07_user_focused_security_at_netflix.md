@@ -74,9 +74,9 @@ Stethoscope is available [now](https://github.com/Netflix/stethoscope) on GitHub
 
 Tags: information security, security education, open-source software, usable security
 
-**Primary Author Name**: Andrew M. White
-**Primary Author Affiliation**: Netflix
-**Primary Author Email**: andreww@netflix.com
-**Additional Author Name**: Jesse Kriss
-**Additional Author Affiliation**: Netflix
-**Additional Author Email**: jkriss@netflix.com
+* **Primary Author Name**: Andrew M. White
+* **Primary Author Affiliation**: Netflix
+* **Primary Author Email**: andreww@netflix.com
+* **Additional Author Name**: Jesse Kriss
+* **Additional Author Affiliation**: Netflix
+* **Additional Author Email**: jkriss@netflix.com

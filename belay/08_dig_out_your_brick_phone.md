@@ -131,8 +131,6 @@ Finally, thanks to ShmooCon for hosting this presentation.
 
 # Metadata
 
-**Primary Author Name**: Brandon Creighton a.k.a. cstone
-
-**Primary Author Affiliation**: Veracode, Ninja Networks
-
-**Primary Author Email**: cstone at pobox dot com
+* **Primary Author Name**: Brandon Creighton a.k.a. cstone
+* **Primary Author Affiliation**: Veracode, Ninja Networks
+* **Primary Author Email**: cstone at pobox dot com

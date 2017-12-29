@@ -70,9 +70,9 @@ Print Android Kernel IPC buffers.
 
 #### Metadata
 
-**David Wu**:
-**Dartmouth College**:
-**DavidXiaohanWu@gmail.com**: 
-**Sergey Bratus**:
-**Dartmouth College**:
-**sergey@cs.dartmouth.edu**:
+* **Primary Author Name**: David Wu
+* **Primary Author Affiliation**: Dartmouth College
+* **Primary Author Email**: DavidXiaohanWu@gmail.com
+* **Additional Author Name**: Sergey Bratus
+* **Additional Author Affiliation**: Dartmouth College
+* **Additional Author Email**: sergey@cs.dartmouth.edu
