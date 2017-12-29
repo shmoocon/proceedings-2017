@@ -62,7 +62,7 @@
    * Aaron Alva
 5. Plug-in Electric Vehicle Fingerprinting: Authentication for Plug-in Electric Vehicles
    * Rebekah Houser
-6. Defeating Sandbox Evasion: How to Increase Successful Emulation Rate in Your Virtualized Environment
+6. [Defeating Sandbox Evasion: How to Increase Successful Emulation Rate in Your Virtualized Environment](belay/06_defeating_sandbox_evasion.md)
    * Alexander Chailytko
    * Stanislav Skuratovich
 7. Anti-Ransomware: Turning the Tables
