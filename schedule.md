@@ -44,7 +44,7 @@
    * Patrick Biernat
 9. Safety Bot Guaranteed
    * Rich Seymour
-10. (In-)secure messaging with SCIMP and OMEMO
+10. [\(In-\)secure messaging with SCIMP and OMEMO](build/10_insecure_messaging_with_scimp_omemo.md)
    * Sebastian Verschoor
 
 ## BELAY IT!
