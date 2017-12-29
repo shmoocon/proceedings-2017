@@ -5,6 +5,7 @@
 ## Abstract
 
 Hacking vehicles is a hot topic. However, there is one aspect of vehicle vulnerability that is underappreciated, mostly because it only applies to a minute percentage of the vehicles on the road today. Plug-in electric vehicles (PEVs) make up a tiny portion of the overall vehicle market, but they are becoming more common.
+
 PEV charging involves authentication, payments, and, increasingly, communication for managing power flow to stabilize the electric power grid. In the design of charging systems, security is not always emphasized. In this talk we propose a means for charging stations to identify the type of PEV connected to charge without explicit communication of this information from the PEV. We report the results of initial testing, and outline future work.
 
 
@@ -56,17 +57,26 @@ This discussion of the EV fingerprinting project has described initial work in d
 
 ## References
 
-* [^1] Kohno, T., Broido, A.,Claffy, K.C., "Remote Physical Device Fingerprinting," IEEE Trans.Dependable and Secure Comput.IEEE Transactions on Dependable and Secure Computing, vol. 2, pp. 93-108, 2005.   
-* [^2] J. M. Allen, "OS and application fingerprinting techniques", SANS Reading Room, 2008. Available: https://www.sans.org/reading-room/whitepapers/authentication/os-application-fingerprinting-techniques-32923.  
-* [^3] "About Panopticlick." Available: https://panopticlick.eff.org/about.  
-* [^4] Bojinov, H., Boneh, D., Michalevsky, Y., "Mobile device identification via sensor fingerprinting", Onlinel. Available: https://crypto.stanford.edu/gyrophone/sensor_id.pdf.  
-* [^5] C. Thuen, "Commonalities in vehicle vulnerabilities", Online, 2016. Available: http://www.ioactive.com/pdfs/Commonalities_in_Vehicle_Vulnerabilities_WP.pdf.  
-* [^6] MOTOR VEHICLES INCREASINGLY VULNERABLE TO REMOTE EXPLOITS. (March 17, 2016). Available: https://www.ic3.gov/media/2016/160317.aspx.  
-* [^7] S. Barker et al, "SmartCap: Flattening peak electricity demand in smart homes," in 2012 IEEE International Conference on Pervasive Computing and Communications, 2012, pp. 67-75.  
-* [^8] H. Chaudhry and T. Bohn, "Security concerns of a plug-in vehicle," in 2012 IEEE PES Innovative Smart Grid Technologies (ISGT), 2012, pp. 1-6.  
-* [^9] M. A. Mustafa et al, "Smart electric vehicle charging: Security analysis," in Innovative Smart Grid Technologies (ISGT), 2013 IEEE PES, 2013, pp. 1-6.  
-* [^10] A. C. F. Chan and J. Zhou, "On smart grid cybersecurity standardization: Issues of designing with NISTIR 7628," IEEE Communications Magazine, vol. 51, pp. 58-65, 2013.   
-* [^11] Society of Automotive Engineers, "J1772," 2012. 
+[^1] Kohno, T., Broido, A.,Claffy, K.C., "Remote Physical Device Fingerprinting," IEEE Trans.Dependable and Secure Comput.IEEE Transactions on Dependable and Secure Computing, vol. 2, pp. 93-108, 2005.   
+
+[^2] J. M. Allen, "OS and application fingerprinting techniques", SANS Reading Room, 2008. Available: https://www.sans.org/reading-room/whitepapers/authentication/os-application-fingerprinting-techniques-32923.  
+
+[^3] "About Panopticlick." Available: https://panopticlick.eff.org/about.  
+[^4] Bojinov, H., Boneh, D., Michalevsky, Y., "Mobile device identification via sensor fingerprinting", Onlinel. Available: https://crypto.stanford.edu/gyrophone/sensor_id.pdf.  
+
+[^5] C. Thuen, "Commonalities in vehicle vulnerabilities", Online, 2016. Available: http://www.ioactive.com/pdfs/Commonalities_in_Vehicle_Vulnerabilities_WP.pdf.  
+
+[^6] MOTOR VEHICLES INCREASINGLY VULNERABLE TO REMOTE EXPLOITS. (March 17, 2016). Available: https://www.ic3.gov/media/2016/160317.aspx.  
+
+[^7] S. Barker et al, "SmartCap: Flattening peak electricity demand in smart homes," in 2012 IEEE International Conference on Pervasive Computing and Communications, 2012, pp. 67-75.  
+
+[^8] H. Chaudhry and T. Bohn, "Security concerns of a plug-in vehicle," in 2012 IEEE PES Innovative Smart Grid Technologies (ISGT), 2012, pp. 1-6.  
+
+[^9] M. A. Mustafa et al, "Smart electric vehicle charging: Security analysis," in Innovative Smart Grid Technologies (ISGT), 2013 IEEE PES, 2013, pp. 1-6.  
+
+[^10] A. C. F. Chan and J. Zhou, "On smart grid cybersecurity standardization: Issues of designing with NISTIR 7628," IEEE Communications Magazine, vol. 51, pp. 58-65, 2013.   
+
+[^11] Society of Automotive Engineers, "J1772," 2012. 
 
 * **Primary Author Name**: Rebekah Houser,
 * **Primay Author Affiliation**: University of Delaware,
