@@ -37,7 +37,7 @@
    * Shimon Modi
 6. 0wn the Con
    * The Shmoo Group
-7. User Focused Security at Netflix: Stethoscope
+7. [User Focused Security at Netflix: Stethoscope](07_user_focused_security_at_netflix.md)
    * Andrew White
    * Jesse Kriss
 8. ripr – Run Slices of Binary Code from Python
