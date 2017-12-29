@@ -64,4 +64,3 @@ For many, future cyber threats seem unimaginable and insurmountable.  This thre
 * **Additional Author Name**: Natalie Vanatta
 * **Additional Author Affiliation**: Deputy Chief of Research at the Army Cyber Institute
 * **Additional Author Email**: Natalie.vanatta@gmail.com
-
