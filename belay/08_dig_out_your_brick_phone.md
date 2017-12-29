@@ -8,7 +8,7 @@ This presentation[^1] outlines the design and implementation of gr-amps[^2], an 
 
 # AMPS In A Nutshell
 
-Mobile system engineers make difficult design tradeoffs. For example: additional complexity in the protocol risks increasing the device cost; using more spectrally-efficient modulation schemes frees up more channels for use, but might require more pricy or power-hungry RF circuitry, or decrease performance.  
+Mobile system engineers make difficult design tradeoffs. For example: additional complexity in the protocol risks increasing the device cost; using more spectrally-efficient modulation schemes frees up more channels for use, but might require more pricey or power-hungry RF circuitry, or decrease performance.  
 
 AMPS was often popularly called "analog", because the voice audio was transmitted using FM.  However, all signaling was digital, using 10kbit/s 2-FSK modulation with 8kHz deviation and Manchester encoding (20k symbols/second).
 
@@ -16,7 +16,7 @@ AMPS was often popularly called "analog", because the voice audio was transmitte
 
 Since AMPS was decommissioned rapidly after the US FCC's 2008 sunset date[^5], I wasn't able to compare my progress against a real base station's transmission.  I worked instead from standards, textbooks, and other descriptions of the system.
 
-My main reference was the standard describing the communications between the mobile station (MS; a.k.a. the phone) and the base station (BS, a.k.a. the tower).  The latest verson of this is TIA/EIA-553-A-1999[^6].  The bulk of the earlier version (IS-3), however, can be found in the free Canadian standard RSS 118 (Annex A)[^7].  
+My main reference was the standard describing the communications between the mobile station (MS; a.k.a. the phone) and the base station (BS, a.k.a. the tower).  The latest version of this is TIA/EIA-553-A-1999[^6].  The bulk of the earlier version (IS-3), however, can be found in the free Canadian standard RSS 118 (Annex A)[^7].  
 
 These standards are surprisingly readable; but even friendlier introductions to AMPS can be found in two Phrack articles by Brian Oblivion [^8] [^9] and several large textbooks that are relatively inexpensive in 2017 [^10] [^11].  Details on handsets can be found by perusing archives like textfiles.com[^4].
 
