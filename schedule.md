@@ -70,7 +70,7 @@
    * G. Mark Hardy
 8. [Dig Out Your Brick Phone! Bringing AMPS Back with GNU Radio](belay/08_dig_out_your_brick_phone.md)
    * Brandon Creighton
-9. Excuse me, Server, Do You Have the Time?
+9. [Excuse me, Server, Do You Have the Time?](belay/09_excuse_me_server.md)
    * Brian Cardinale
 10. Does a BEAR Leak in the Woods? The Democratic National Committee breach, Russian APTs, and the 2016 U.S. Election
    * Toni Gidwani
