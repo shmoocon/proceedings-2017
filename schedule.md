@@ -13,7 +13,7 @@
    * Jeff Dodge
 6. Introducing Jak: Safely Share Sensitive Files via Git
    * Chris DiLorenzo
-7. Can a Drunk Person Authenticate Using Brainwaves? #NotAlcoholicsJustResearchers
+7. [Can a Drunk Person Authenticate Using Brainwaves? #NotAlcoholicsJustResearchers](otm/07_can_a_drunk_person_authenticate.md)
    * Tommy Chin
    * Peter Muller
 8. Keynote Seven Things: Frank Zappa, T. Coraghassen Boyle, and Twenty-one Years in Security
