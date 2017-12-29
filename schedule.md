@@ -68,7 +68,7 @@
 7. Anti-Ransomware: Turning the Tables
    * Gal Shpantzer
    * G. Mark Hardy
-8. Dig Out Your Brick Phone! Bringing AMPS Back with GNU Radio
+8. [Dig Out Your Brick Phone! Bringing AMPS Back with GNU Radio](belay/08_dig_out_your_brick_phone.md)
    * Brandon Creighton
 9. Excuse me, Server, Do You Have the Time?
    * Brian Cardinale
