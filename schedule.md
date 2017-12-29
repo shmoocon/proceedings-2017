@@ -3,113 +3,116 @@
 ## ONE TRACK MIND
 
 1. Opening Remarks, Rumblings, Ruminations, and Rants
-2. [Breaking Bulbs Briskly by Bogus Broadcasts](otm/02_Breaking_Bulbs_Briskly_by_Bogus_Broadcasts.md)
-   * Joseph Hall
-   * Ben Ramsey
-3. Crypto and Quantum and Post Quantum
-   * Jean-Philippe Aumasson
-4. \#thingswikfound \#omarax: What is it, and why you may care?
-   * Jaime Filson
-5. Static Malware and SMTP Mail Analysis using General Purpose Graphical Processing Units \(GPGPU\)
-   * Rick Wesson
-6. [Where Do the Phishers Live? Collecting Phishers’ Geographic Locations from Automated Honeypots](otm/06_Where_do_the_Phishers_live.md)
-   * Robbie Gallagher
-7. [Hiding from the Investigator: Understanding OS X and iOS Code Signing to Hide Data](otm/07_Hiding-from-Investigators.md)
-   * Joshua Pitts
-8. Keynote
-   * Neil Gershenfeld
+2. U2F Zero: Secure Hardware Design, DIY Mass Production, and Amazon Prime
+   * Conor Patrick
+3. 35 Years of Cyberwar: The Squirrels are Winning
+   * Space Rogue
+4. Implantable Logic Analyzers and Unlocking Doors
+   * Kenny McElroy
+5. Cyborg Self-Hacking: An Examination of Cochlear Implants
+   * Jeff Dodge
+6. Introducing Jak: Safely Share Sensitive Files via Git
+   * Chris DiLorenzo
+7. Can a Drunk Person Authenticate Using Brainwaves? #NotAlcoholicsJustResearchers
+   * Tommy Chin
+   * Peter Muller
+8. Keynote Seven Things: Frank Zappa, T. Coraghassen Boyle, and Twenty-one Years in Security
+   * Dr. Gary McGraw
 
 ## BUILD IT!
 
-1. [LostPass: Pixel-perfect LastPass Phishing](build/01_LostPass.md)
-   * Sean Cassidy
-2. Hacking The Wireless World — Software Defined Radio Exploits
-   * Balint Seeber
-3. [\(P\|G\)Ohst Exploitation](build/03_P-GOhst Exploitation.md)
-   * Carl Vincent
-4. [The Road to SYSTEM: Recycling Old Vulnerabilities for Unpatched Privilege Escalation and A New Network Attack](build/04_Road-to-SYSTEM.md)
-   * Stephen Breen
-5. 0wn the Con
+1. So You Want to Hack Radios
+   * Marc Newlin
+   * Matt Knight
+2. Exploring The Infrared World
+   * Dominic Spill
+   * Michael Ossmann
+3. A Context-Aware Kernel IPC Firewall for Android
+   * David Wu
+   * Sergey Bratus
+4. WaveConverter – An Open Source Software Tool for RF Reverse Engineering
+   * Paul Clark
+5. I Have a Graph Database. Now What?
+   * Nicolas Kseib
+   * Shimon Modi
+6. 0wn the Con
    * The Shmoo Group
-6. OSX Vulnerability Research and Why We Wrote Our Own Debugger
-   * Tyler Bohan
-   * Brandon Edwards
-7. Penetration Testing Custom TLS Stacks
-   * Alex Moneger
-8. [Compressed Context Based Analytic Results for Use in Computer Vision System for Network Defense](build/08_Compressed-Context-Based-Analytics.md)
-   * Rob Weiss
-   * John Eberhardt
-9. Be Free, Little GuardBunny!
-   * Kristin Paget
-10. [Reverse-Engineering Wireless SCADA Systems](build/10_)
-    * Karl Koscher
+7. User Focused Security at Netflix: Stethoscope
+   * Andrew White
+   * Jesse Kriss
+8. ripr – Run Slices of Binary Code from Python
+   * Patrick Biernat
+9. Safety Bot Guaranteed
+   * Rich Seymour
+10. (In-)secure messaging with SCIMP and OMEMO
+   * Sebastian Verschoor
 
 ## BELAY IT!
 
-1. Users Are People Too: How to Make Your Tools Not Suck for Humans
-   * Gillian Andrews
-   * Sara Sinclair Brody
-2. Software Security by the Numbers
-   * Chris Eng
-3. Using the Algebraic Eraser to Secure Low-Power and Passive IoT Devices
-   * Derek Atkins
-4. Speak Security and Enter: Better Ways to Communicate with Non-Technical Users
-   * Jessy Irwin
-5. [AVLeak: Turning Antivirus Emulators Inside Out](belay/05_)
-   * Alex Bulazel
-6. No Easy Breach: Challenges and Lessons Learned from an Epic Investigation
-   * Matt Dunwoody
-   * Nick Carr
-7. Attack on Titans: A Survey of New Attacks Against Big Data and Machine Learning
-   * Andrew Ruef
-   * Rock Stevens
-8. Containing an Attack with Linux Containers and AppArmor/SELinux
-   * Jay Beale
-9. My Hash is My Passport: Understanding Web and Mobile Authentication
-   * David Schuetz
-10. Building an Encyclopedia of Malware Configs \(to punch miscreants\)
-    * Jon Bambenek
+1. LangSec for Penetration Testing: How and Why
+   * Falcon Darkstar Momot
+   * Sergey Bratus
+2. Know Normal, Find Evil: Windows 10 Edition
+   * Jake Williams
+3. Who Wants to Allow Arbitrary Code Execution on Their Boxes? We Do It Every Day.
+   * Brian Redbeard
+   * Brad Ison
+4. Goodnight Moon & the House of Horrors: A look at the current IoT ecosystem and the regulations trying to control it
+   * Whitney Merrill
+   * Aaron Alva
+5. Plug-in Electric Vehicle Fingerprinting: Authentication for Plug-in Electric Vehicles
+   * Rebekah Houser
+6. Defeating Sandbox Evasion: How to Increase Successful Emulation Rate in Your Virtualized Environment
+   * Alexander Chailytko
+   * Stanislav Skuratovich
+7. Anti-Ransomware: Turning the Tables
+   * Gal Shpantzer
+   * G. Mark Hardy
+8. Dig Out Your Brick Phone! Bringing AMPS Back with GNU Radio
+   * Brandon Creighton
+9. Excuse me, Server, Do You Have the Time?
+   * Brian Cardinale
+10. Does a BEAR Leak in the Woods? The Democratic National Committee breach, Russian APTs, and the 2016 U.S. Election
+   * Toni Gidwani
 
 ## BRING IT ON!
 
-1. [Exploiting Memory Corruption Vulnerabilities on the FreeRTOS Operating System](bring/01_Exploiting_Memory_Corruption.md)
-   * Joel Sandin
-2. Online, No One Knows You’re Dead
-   * Andrew Kalat
-3. You Ain’t Seen Nothing Yet: New Paradigms for Policy, Regulation, and Community Engagement
-   * Greg Conti \(moderator\)
-   * Mara Tam
-   * Vincenzo Iozzo
-   * Jeff Moss
-   * Randy Wheeler
-4. Political Pwnage: The Hacker’s Guide to Cybersecurity Policy
+1. A Widening Attack Plain: Threatcasting Tomorrow’s Threats
+   * Brian David Johnson
+   * Natalie Vanatta
+2. Ask the Feds
+   * Allan Friedman
    * Nick Leiserson
-   * Jen Ellis
-5. [LTE Security and Protocol Exploits](bring/05_LTE_Security_and_Protocol_Exploits.md)
-   * Roger Piqueras Jover
-6. This Message Will Self-Destruct in 10 Seconds: Avoiding Bilateral Enucleation
-   * 3AlarmLampscooter
-7. Ask the EFF
+   * Eric Mill
+   * Jessica Wilkerson
+3. Ask the EFF: Protecting Tomorrow
    * Kurt Opsahl
    * Andrew Crocker
-   * Bill Buddington
-   * Eva Galperin
-8. [Making Milware: An Interdisciplinary Tryst](bring/08_Making_Milware.md)
-   * Trey Herr
-   * Eric Armbrust
-9. Resistance is Futile: SDN Assimilating Our Networks
-   * Sarah Rees
-   * Jonathan Medina
-10. Gatekeeper Exposed
-    * Patrick Wardle
+4. h·cek: Computing a Hacker Experience
+   * Allison Miller
+   * Melissa Clarke
+   * Margaret Schedel
+5. Flailing is Learning: My First Year as a Malware Analyst
+   * Lauren Pearce
+6. The State of Secure Messaging
+   * Nikita Borisov
+   * Sze Chuen Tan
+7. The Metadata is the Message (and Sometimes the Message is the Metadata
+   * Matt Blaze
+8. A Nickel Tour of the Ad Fraud Ecosystem
+   * Ryan Castellucci
+9. The Threat Intel Results are in… You are NOT the hacker! : Disinformation Campaigns vs. Attribution Claims
+   * Mark Kuhr
+10. Challenges and Opportunities: Application Containers and Micro Services
+   * Anil Karmel
+   * Andrew Wild
 
 ## CLOSING
 
-1. Information Security Programs in Academia
-   * Matt Blaze \(moderator\)
-   * Greg Conti
-   * Rick Forno
-   * Jeff Foster
-
-
-
+1. Designing and Executing the Worldís First All-Computer Hacking Competition: A panel with the development team
+   * Tim Vidas
+   * Chris Eagle
+   * Jason Wright
+   * Brian Caswell
+   * Mike Thompson
+   * Holt Sorenson
