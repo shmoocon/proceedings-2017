@@ -259,12 +259,12 @@ We would like to thank our colleagues Aliaksandr Trafimchuk and Alexey Bukhteyev
 
 # References
 
-[1]: https://github.com/cuckoosandbox
-[2]: https://github.com/CheckPointSW/InviZzzible
-[3]: https://github.com/CheckPointSW/InviZzzible/blob/master/conferences/Skuratovich_Chailytko-DefeatingSandboxEvasion.pdf
-[4]: https://msdn.microsoft.com/en-us/library/windows/desktop/ms681951(v=vs.85).aspx
-[5]: https://msdn.microsoft.com/en-us/library/windows/desktop/aa365239(v=vs.85).aspx
-[6]: https://en.wikipedia.org/wiki/Windows_Task_Scheduler
+* [^1] https://github.com/cuckoosandbox
+* [^2] https://github.com/CheckPointSW/InviZzzible
+* [^3] https://github.com/CheckPointSW/InviZzzible/blob/master/conferences/Skuratovich_Chailytko-DefeatingSandboxEvasion.pdf
+* [^4] https://msdn.microsoft.com/en-us/library/windows/desktop/ms681951(v=vs.85).aspx
+* [^5] https://msdn.microsoft.com/en-us/library/windows/desktop/aa365239(v=vs.85).aspx
+* [^6] https://en.wikipedia.org/wiki/Windows_Task_Scheduler
 
 #### Metadata
 
