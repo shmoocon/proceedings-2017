@@ -88,7 +88,7 @@
 3. Ask the EFF: Protecting Tomorrow
    * Kurt Opsahl
    * Andrew Crocker
-4. h·cek: Computing a Hacker Experience
+4. [háček: Computing a Hacker Experience](bring/04_háček.md)
    * Allison Miller
    * Melissa Clarke
    * Margaret Schedel

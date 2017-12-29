@@ -39,7 +39,7 @@ both cases a fix has been provided by the developers: while SCIMP has
 been discontinued in favor of an adaptation of the Signal protocol,
 the patched version of SCIMP is currently being considered for
 standardization in XMPP.  More detailed reports of these results have
-been made available online, see [^4][^10][^12].
+been made available online, see [^4] - [^10] - [^12].
 
 
 ## Formal verification
