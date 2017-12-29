@@ -77,7 +77,7 @@
 
 ## BRING IT ON!
 
-1. A Widening Attack Plain: Threatcasting Tomorrow’s Threats
+1. [A Widening Attack Plain: Threatcasting Tomorrow’s Threats](bring/01_a_widening_attack_plain.md)
    * Brian David Johnson
    * Natalie Vanatta
 2. Ask the Feds

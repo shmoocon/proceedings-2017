@@ -16,5 +16,5 @@
   * [Dig Out Your Brick Phone! Bringing AMPS Back with GNU Radio](belay/08_dig_out_your_brick_phone.md)
   * [Excuse me, Server, Do You Have the Time?](belay/09_excuse_me_server.md)
 * [BRING IT ON](bring/bring_it_on.md)
-  * 
+  * [A Widening Attack Plain: Threatcasting Tomorrow’s Threats](bring/01_a_widening_attack_plain.md)
 
