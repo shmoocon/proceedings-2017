@@ -193,12 +193,8 @@ that can extract a model from the code.
 
 ## References
 
-[^1] Belvin, G. (2011). A Secure Text Messaging Protocol (Masters
-     thesis).  <https://eprint.iacr.org/2014/036>
-
-[^2] Blanchet, B. (2016). ProVerif: Cryptographic protocol verifier in
-     the formal model.
-     <http://prosecco.gforge.inria.fr/personal/bblanche/proverif/>
+* [^1] Belvin, G. (2011). A Secure Text Messaging Protocol (Masters thesis).  <https://eprint.iacr.org/2014/036>
+* [^2] Blanchet, B. (2016). ProVerif: Cryptographic protocol verifier in the formal model. <http://prosecco.gforge.inria.fr/personal/bblanche/proverif/>
 
 [^3] Borisov, N., Goldberg, I., Brewer, E. (2004). Off-the-Record
      Communication, or, Why Not to Use PGP. In Proceedings of the 2004

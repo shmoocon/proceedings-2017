@@ -60,7 +60,7 @@
 4. Goodnight Moon & the House of Horrors: A look at the current IoT ecosystem and the regulations trying to control it
    * Whitney Merrill
    * Aaron Alva
-5. Plug-in Electric Vehicle Fingerprinting: Authentication for Plug-in Electric Vehicles
+5. [Plug-in Electric Vehicle Fingerprinting: Authentication for Plug-in Electric Vehicles](belay/05_pev_fingerprinting.md)
    * Rebekah Houser
 6. [Defeating Sandbox Evasion: How to Increase Successful Emulation Rate in Your Virtualized Environment](belay/06_defeating_sandbox_evasion.md)
    * Alexander Chailytko
